@@ -1,0 +1,15 @@
+.bg{
+    background-image: url('mario.jpg') ;
+    background-size: cover;
+}
+.white{
+    color: white;
+}
+.newColor{
+    text-align: center;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    animation-iteration-count: inherit;
+    background-image: linear-gradient(to right, #870000, #190a05);
+}
